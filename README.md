@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I am Memduh. 19. First year in Bilkent and eveything.👋
 
 <!--
 **memduhtutus/memduhtutus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
